@@ -11,4 +11,3 @@ else
     Console.WriteLine("Eres menor de edad.");
 }
 
-Console.WriteLine("El Ing Daro es muy feo.");
