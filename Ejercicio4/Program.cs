@@ -8,6 +8,6 @@ if (esMayorDeEdad)
 }
 else
 {
-    Console.WriteLine("Eres menor de edad.");
+    Console.WriteLine("Eres menor de edadd.");
 }
 
